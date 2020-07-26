@@ -1,0 +1,106 @@
+.banner-main {
+    height: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.banner-main .content {
+    margin: auto;
+}
+
+.banner-main .content h1{      
+    font-weight: 100;
+    width: 80%;
+    margin: auto;
+    line-height: 67px;
+}
+
+.banner-main .content p {
+    margin-top: 15px;    
+    color: #A5A5A5;
+}
+
+.banner-img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.column {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 190px;
+}
+
+.column .text-col h2{    
+    font-weight: 100;    
+}
+.column .text-col p{    
+    width: 60%;    
+    color: #A5A5A5;
+    margin-top: 15px;
+}
+
+.img-col img{
+    max-width: 100%;
+    height: auto;
+}
+
+.column-reverse {
+    flex-direction: row-reverse;
+}
+
+.column-reverse .text-col{
+    text-align: end;
+}
+
+.column-reverse .text-col p {
+    margin-left: auto;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: 0;
+    margin-top: 17px;
+}
+
+.btn-primary {
+    border-radius: 50px;
+    color: #0088FF;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+/* https://codepen.io/dfmcphee/pen/pgrGmW?editors=1100 */
+
+@media (max-width:800px) {
+    .column {
+       flex-direction: column-reverse;
+    }
+
+    .img-col {
+        width: 100%;        
+    }
+
+    .text-col {
+        margin-top: 30px;
+    }
+
+    .column .text-col p {
+        width: auto;
+    }
+
+    .column-reverse .text-col {
+        text-align: inherit;
+    }    
+}
+
+@media (max-width: 620px) {
+    .banner-main .content h1 {
+        width: auto;
+        font-size: 59px;
+    }
+}

@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Rubik&display=swap');
+
+.container {
+    max-width: 1360px;
+    width: 80%;
+    margin: auto;
+}
+
+body {
+    outline: none;    
+    font-size: 18px;
+}
+
+h1, h2 {
+    font-family: 'DM Serif Display', serif;
+}
+
+h1 {
+    font-size: 68px;  
+    font-weight: 100;
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: 100;
+}
+
+button {
+    cursor: pointer;
+    outline: none;
+}
+
+p, button {
+    font-family: 'Rubik', sans-serif;
+}
+
