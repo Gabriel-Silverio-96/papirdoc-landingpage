@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/papirdoc-landingpage/precache-manifest.c380ca3d60d6dbd1fef512a28e764d93.js"
+  "/papirdoc-landingpage/precache-manifest.31960d21a05f15ccd70315ffa653f73e.js"
 );
 
 self.addEventListener('message', (event) => {

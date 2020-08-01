@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bb425bf0e29f0022e02e2fc3b549cab",
+    "revision": "459fb7a5f33eec6dc0bde520a6d8c225",
     "url": "/papirdoc-landingpage/index.html"
   },
   {
-    "revision": "e441ae000e5e7ce43e62",
+    "revision": "7c0d2c5cb8d9cbdd32f2",
     "url": "/papirdoc-landingpage/static/css/main.6e999cf4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e441ae000e5e7ce43e62",
-    "url": "/papirdoc-landingpage/static/js/main.ae1dda39.chunk.js"
+    "revision": "7c0d2c5cb8d9cbdd32f2",
+    "url": "/papirdoc-landingpage/static/js/main.3e36c9f1.chunk.js"
   },
   {
     "revision": "c9f1bfc601a9657f7675",

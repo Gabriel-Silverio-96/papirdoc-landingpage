@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/papirdoc-landingpage/static/css/main.6e999cf4.chunk.css",
-    "main.js": "/papirdoc-landingpage/static/js/main.ae1dda39.chunk.js",
-    "main.js.map": "/papirdoc-landingpage/static/js/main.ae1dda39.chunk.js.map",
+    "main.js": "/papirdoc-landingpage/static/js/main.3e36c9f1.chunk.js",
+    "main.js.map": "/papirdoc-landingpage/static/js/main.3e36c9f1.chunk.js.map",
     "runtime-main.js": "/papirdoc-landingpage/static/js/runtime-main.62f3debe.js",
     "runtime-main.js.map": "/papirdoc-landingpage/static/js/runtime-main.62f3debe.js.map",
     "static/js/2.c88c5317.chunk.js": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js",
     "static/js/2.c88c5317.chunk.js.map": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js.map",
     "index.html": "/papirdoc-landingpage/index.html",
-    "precache-manifest.c380ca3d60d6dbd1fef512a28e764d93.js": "/papirdoc-landingpage/precache-manifest.c380ca3d60d6dbd1fef512a28e764d93.js",
+    "precache-manifest.31960d21a05f15ccd70315ffa653f73e.js": "/papirdoc-landingpage/precache-manifest.31960d21a05f15ccd70315ffa653f73e.js",
     "service-worker.js": "/papirdoc-landingpage/service-worker.js",
     "static/css/main.6e999cf4.chunk.css.map": "/papirdoc-landingpage/static/css/main.6e999cf4.chunk.css.map",
     "static/js/2.c88c5317.chunk.js.LICENSE.txt": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.62f3debe.js",
     "static/js/2.c88c5317.chunk.js",
     "static/css/main.6e999cf4.chunk.css",
-    "static/js/main.ae1dda39.chunk.js"
+    "static/js/main.3e36c9f1.chunk.js"
   ]
 }
