@@ -2,7 +2,7 @@
   "name": "papir",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabriel-silverio-96.github.io/papirdoc-landingpage/public",
+  "homepage": "https://gabriel-silverio-96.github.io/papirdoc-landingpage/public/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
