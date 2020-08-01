@@ -6,8 +6,7 @@ import './style.css'
 
 const Footer = () => (
     <footer className="container">
-         <img src={logo} alt="Logo papirDoc"></img>
-         <span>v 1.0.1</span>
+         <img src={logo} alt="Logo papirDoc"></img>         
     </footer>
 )
 
