@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/papirdoc-landingpage/public/index.html/static/css/main.6e999cf4.chunk.css",
-    "main.js": "/papirdoc-landingpage/public/index.html/static/js/main.4844f921.chunk.js",
-    "main.js.map": "/papirdoc-landingpage/public/index.html/static/js/main.4844f921.chunk.js.map",
-    "runtime-main.js": "/papirdoc-landingpage/public/index.html/static/js/runtime-main.e906c2e3.js",
-    "runtime-main.js.map": "/papirdoc-landingpage/public/index.html/static/js/runtime-main.e906c2e3.js.map",
-    "static/js/2.c88c5317.chunk.js": "/papirdoc-landingpage/public/index.html/static/js/2.c88c5317.chunk.js",
-    "static/js/2.c88c5317.chunk.js.map": "/papirdoc-landingpage/public/index.html/static/js/2.c88c5317.chunk.js.map",
-    "index.html": "/papirdoc-landingpage/public/index.html/index.html",
-    "precache-manifest.bc22161a25cf0027e3d9f062faa56629.js": "/papirdoc-landingpage/public/index.html/precache-manifest.bc22161a25cf0027e3d9f062faa56629.js",
-    "service-worker.js": "/papirdoc-landingpage/public/index.html/service-worker.js",
-    "static/css/main.6e999cf4.chunk.css.map": "/papirdoc-landingpage/public/index.html/static/css/main.6e999cf4.chunk.css.map",
-    "static/js/2.c88c5317.chunk.js.LICENSE.txt": "/papirdoc-landingpage/public/index.html/static/js/2.c88c5317.chunk.js.LICENSE.txt",
-    "static/media/banner-implementacao.png": "/papirdoc-landingpage/public/index.html/static/media/banner-implementacao.225566c3.png",
-    "static/media/banner-main.png": "/papirdoc-landingpage/public/index.html/static/media/banner-main.5c9981ba.png",
-    "static/media/banner-modo-noturno.png": "/papirdoc-landingpage/public/index.html/static/media/banner-modo-noturno.04d65ddb.png",
-    "static/media/banner-trabalhe-rapido.png": "/papirdoc-landingpage/public/index.html/static/media/banner-trabalhe-rapido.b0df36d7.png",
-    "static/media/logo-papirDoc.svg": "/papirdoc-landingpage/public/index.html/static/media/logo-papirDoc.86dcf052.svg"
+    "main.css": "/papirdoc-landingpage/static/css/main.6e999cf4.chunk.css",
+    "main.js": "/papirdoc-landingpage/static/js/main.e8087016.chunk.js",
+    "main.js.map": "/papirdoc-landingpage/static/js/main.e8087016.chunk.js.map",
+    "runtime-main.js": "/papirdoc-landingpage/static/js/runtime-main.62f3debe.js",
+    "runtime-main.js.map": "/papirdoc-landingpage/static/js/runtime-main.62f3debe.js.map",
+    "static/js/2.c88c5317.chunk.js": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js",
+    "static/js/2.c88c5317.chunk.js.map": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js.map",
+    "index.html": "/papirdoc-landingpage/index.html",
+    "precache-manifest.4faf7bd139f03c9a8cb04d65ec4e2cac.js": "/papirdoc-landingpage/precache-manifest.4faf7bd139f03c9a8cb04d65ec4e2cac.js",
+    "service-worker.js": "/papirdoc-landingpage/service-worker.js",
+    "static/css/main.6e999cf4.chunk.css.map": "/papirdoc-landingpage/static/css/main.6e999cf4.chunk.css.map",
+    "static/js/2.c88c5317.chunk.js.LICENSE.txt": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js.LICENSE.txt",
+    "static/media/banner-implementacao.png": "/papirdoc-landingpage/static/media/banner-implementacao.225566c3.png",
+    "static/media/banner-main.png": "/papirdoc-landingpage/static/media/banner-main.5c9981ba.png",
+    "static/media/banner-modo-noturno.png": "/papirdoc-landingpage/static/media/banner-modo-noturno.04d65ddb.png",
+    "static/media/banner-trabalhe-rapido.png": "/papirdoc-landingpage/static/media/banner-trabalhe-rapido.b0df36d7.png",
+    "static/media/logo-papirDoc.svg": "/papirdoc-landingpage/static/media/logo-papirDoc.86dcf052.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e906c2e3.js",
+    "static/js/runtime-main.62f3debe.js",
     "static/js/2.c88c5317.chunk.js",
     "static/css/main.6e999cf4.chunk.css",
-    "static/js/main.4844f921.chunk.js"
+    "static/js/main.e8087016.chunk.js"
   ]
 }
