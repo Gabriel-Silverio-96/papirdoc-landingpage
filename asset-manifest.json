@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e999cf4.chunk.css",
-    "main.js": "/static/js/main.0823ef1f.chunk.js",
-    "main.js.map": "/static/js/main.0823ef1f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d761d333.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d761d333.js.map",
-    "static/js/2.c88c5317.chunk.js": "/static/js/2.c88c5317.chunk.js",
-    "static/js/2.c88c5317.chunk.js.map": "/static/js/2.c88c5317.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.504aa0ba06bd2a25b87ba8c4b921725e.js": "/precache-manifest.504aa0ba06bd2a25b87ba8c4b921725e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6e999cf4.chunk.css.map": "/static/css/main.6e999cf4.chunk.css.map",
-    "static/js/2.c88c5317.chunk.js.LICENSE.txt": "/static/js/2.c88c5317.chunk.js.LICENSE.txt",
-    "static/media/banner-implementacao.png": "/static/media/banner-implementacao.225566c3.png",
-    "static/media/banner-main.png": "/static/media/banner-main.5c9981ba.png",
-    "static/media/banner-modo-noturno.png": "/static/media/banner-modo-noturno.04d65ddb.png",
-    "static/media/banner-trabalhe-rapido.png": "/static/media/banner-trabalhe-rapido.b0df36d7.png",
-    "static/media/logo-papirDoc.svg": "/static/media/logo-papirDoc.86dcf052.svg"
+    "main.css": "/papirdoc-landingpage/static/css/main.6e999cf4.chunk.css",
+    "main.js": "/papirdoc-landingpage/static/js/main.ae1dda39.chunk.js",
+    "main.js.map": "/papirdoc-landingpage/static/js/main.ae1dda39.chunk.js.map",
+    "runtime-main.js": "/papirdoc-landingpage/static/js/runtime-main.62f3debe.js",
+    "runtime-main.js.map": "/papirdoc-landingpage/static/js/runtime-main.62f3debe.js.map",
+    "static/js/2.c88c5317.chunk.js": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js",
+    "static/js/2.c88c5317.chunk.js.map": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js.map",
+    "index.html": "/papirdoc-landingpage/index.html",
+    "precache-manifest.c380ca3d60d6dbd1fef512a28e764d93.js": "/papirdoc-landingpage/precache-manifest.c380ca3d60d6dbd1fef512a28e764d93.js",
+    "service-worker.js": "/papirdoc-landingpage/service-worker.js",
+    "static/css/main.6e999cf4.chunk.css.map": "/papirdoc-landingpage/static/css/main.6e999cf4.chunk.css.map",
+    "static/js/2.c88c5317.chunk.js.LICENSE.txt": "/papirdoc-landingpage/static/js/2.c88c5317.chunk.js.LICENSE.txt",
+    "static/media/banner-implementacao.png": "/papirdoc-landingpage/static/media/banner-implementacao.225566c3.png",
+    "static/media/banner-main.png": "/papirdoc-landingpage/static/media/banner-main.5c9981ba.png",
+    "static/media/banner-modo-noturno.png": "/papirdoc-landingpage/static/media/banner-modo-noturno.04d65ddb.png",
+    "static/media/banner-trabalhe-rapido.png": "/papirdoc-landingpage/static/media/banner-trabalhe-rapido.b0df36d7.png",
+    "static/media/logo-papirDoc.svg": "/papirdoc-landingpage/static/media/logo-papirDoc.86dcf052.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d761d333.js",
+    "static/js/runtime-main.62f3debe.js",
     "static/js/2.c88c5317.chunk.js",
     "static/css/main.6e999cf4.chunk.css",
-    "static/js/main.0823ef1f.chunk.js"
+    "static/js/main.ae1dda39.chunk.js"
   ]
 }
